@@ -1,2 +1,2 @@
 # Euclidean-Similarity
-Find Distance Based Similarity between Sport Pairs Xport_X and Sport_y
+Find Euclidean Distance Based Similarity Score between Sport Pair i.e Sport_X and Sport_y
